@@ -7,7 +7,7 @@ const Footer = () => {
       <ul>
         <Items>A</Items>
         <li>B</li>
-        <li>C</li>
+        HEllo world
       </ul>
     </FooterWrapper>
   );
